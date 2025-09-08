@@ -1,0 +1,16 @@
+[
+  {
+    "nom": "Dupont",
+    "prenom": "Jean",
+    "age": 32,
+    "email": "jean.dupont@exemple.fr",
+    "telephone": "01 23 45 67 89"
+  },
+  {
+    "nom": "Martin",
+    "prenom": "Sophie",
+    "age": 28,
+    "email": "sophie.martin@exemple.fr",
+    "telephone": "01 98 76 54 32"
+  }
+]
